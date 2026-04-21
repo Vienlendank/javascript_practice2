@@ -1,1 +1,1 @@
-# notseeingteachersfaceevenaftertwoweeks
+some practice in javascript
